@@ -1,0 +1,5 @@
+nombre: michael
+apellido: mendieta
+correo : michael.m@hotmail.com
+rh: o-
+estatura: 1.80m

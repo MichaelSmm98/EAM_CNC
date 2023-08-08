@@ -1,0 +1,5 @@
+nombre: Laura
+apellido: flores
+correo : laura.f@hotmail.com
+rh: o-
+estatura: 1.62m

@@ -1,0 +1,5 @@
+nombre: luz
+apellido: garcia
+correo : luz.g@hotmail.com
+rh: o+
+estatura: 1.70m

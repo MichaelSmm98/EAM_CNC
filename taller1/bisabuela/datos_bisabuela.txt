@@ -1,0 +1,5 @@
+nombre: shanzue
+apellido: diaz
+correo : shan.d@hotmail.com
+rh: orh-
+estatura: 1.60m

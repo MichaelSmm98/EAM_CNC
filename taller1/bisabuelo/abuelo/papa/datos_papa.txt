@@ -1,0 +1,5 @@
+nombre: santy
+apellido: diaz
+correo : santy.d@hotmail.com
+rh: o-
+estatura: 1.79m

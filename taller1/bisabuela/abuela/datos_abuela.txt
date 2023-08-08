@@ -1,0 +1,5 @@
+nombre: hiomara
+apellido: serrano
+correo : hio.s@hotmail.com
+rh: orh-
+estatura: 1.72m

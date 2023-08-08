@@ -1,0 +1,5 @@
+nombre: myriam
+apellido: mendieta
+correo : myr.m@hotmail.com
+rh: o+
+estatura: 1.68m

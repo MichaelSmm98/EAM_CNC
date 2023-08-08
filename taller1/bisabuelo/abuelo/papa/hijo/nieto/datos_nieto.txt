@@ -1,0 +1,5 @@
+nombre: lucas
+apellido: mejia
+correo : lucas.m@hotmail.com
+rh: o-
+estatura: 1.82m

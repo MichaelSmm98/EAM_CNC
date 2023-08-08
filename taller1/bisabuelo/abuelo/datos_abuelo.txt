@@ -1,0 +1,5 @@
+nombre: saul
+apellido: serrano
+correo : saul.s@hotmail.com
+rh: o-
+estatura: 1.70m

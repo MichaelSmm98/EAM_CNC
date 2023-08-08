@@ -1,0 +1,5 @@
+nombre: mailo
+apellido: mejia
+correo : mailo.m@hotmail.com
+rh: o-
+estatura: 1.90m
